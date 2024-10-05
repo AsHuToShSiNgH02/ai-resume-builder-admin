@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_projects_projects",
+  "info": {
+    "displayName": "Projects",
+    "icon": "brush"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "techStack": {
+      "type": "string"
+    },
+    "projectLink": {
+      "type": "string"
+    }
+  }
+}
